@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Premimi!</string>
+     <string>click me</string>
     </property>
    </widget>
    <widget class="QLabel" name="labelClickCount">
